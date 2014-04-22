@@ -61,6 +61,7 @@ DATABASES = {
         'NAME': 'lumdevcdb',
         'USER': 'kstone',
         'PASSWORD': '\';l',
+        'HOST': 'localhost',
     }
 }
 
